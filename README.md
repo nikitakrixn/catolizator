@@ -8,7 +8,11 @@
 -Удаляет данные каталоги.   <br>
 
 ## Скриншоты
-![alt text](screenshots/1.png "Description goes here")
+![alt text](screenshots/1.png "Сайт")
+![alt text](screenshots/3.png "Сайт")
+![alt text](screenshots/4.png "Сайт")
+![alt text](screenshots/5.png "Сайт")
+![alt text](screenshots/6.png "Сайт")
 
 ### Автор
 
